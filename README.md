@@ -1,36 +1,41 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Recipe Remix 🍔
 
-## Getting Started
+"Recipe Remix" is an innovative app that helps users discover recipes by remixing ingredients they have on hand. Whether looking for quick meal ideas or gourmet inspirations, this app delivers creativity and convenience to the kitchen.
+<hr/>
 
-First, run the development server:
+![image](https://github.com/user-attachments/assets/75944f01-46c4-4225-80b9-e3ead5a2af85)
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+<hr />
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+## Built With
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- HTML/CSS
+- React
+- Next JS
+- Bootstrap
+- API
+- Netlify
+- Github
 
-## Learn More
+## Live Demo
 
-To learn more about Next.js, take a look at the following resources:
+[Live Demo Link](https://recipe-remix-app.netlify.app/)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Author
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+👤 **A B M Asadullah**
 
-## Deploy on Vercel
+- Github: [@abmasadullah](https://github.com/abmasadullah)
+- Linkedin: [@abmasadullah](https://www.linkedin.com/in/abmasadullah)
+- Website: [@asad.app](https://asad.app/)
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## 🤝 Contributing
+
+Contributions, issues and feature requests are welcome!
+Feel free to check the issues page.
+
+## Show your support
+
+Give a ⭐️ if you like this project!
