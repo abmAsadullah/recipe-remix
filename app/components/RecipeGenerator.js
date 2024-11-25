@@ -37,8 +37,8 @@ const RecipeGenerator = () => {
     <>
     <Navbar />
     <div className='hero text-center p-3'>
-      <h3 className='display-6'>Are you hungry & don't have any idea what to do?</h3>
-      <h3 className='display-5'>Let's generate your own recipe:</h3>
+      <h3 className='display-6'>Are you hungry & don&apos;t have any idea what to do?</h3>
+      <h3 className='display-5'>Let&apos;s generate your own recipe:</h3>
     </div>
     <div className="container mt-3 text-center">
       <div className="m-3">
@@ -51,7 +51,7 @@ const RecipeGenerator = () => {
       </div>
       
         {recipes.length === 0 ? (
-          <p className='display-6 mt-5'>No recipes found. Let's generate first!</p>
+          <p className='display-6 mt-5'>No recipes found. Let&apos;s generate first!</p>
         ) : (
          <RecipeCard recipes={recipes}
          openModal={openModal}
